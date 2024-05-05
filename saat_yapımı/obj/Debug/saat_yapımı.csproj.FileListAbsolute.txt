@@ -1,0 +1,10 @@
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\bin\Debug\saat_yapımı.exe.config
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\bin\Debug\saat_yapımı.exe
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\bin\Debug\saat_yapımı.pdb
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.csproj.AssemblyReference.cache
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.Properties.Resources.resources
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.frmSaat.resources
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.csproj.GenerateResource.cache
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.csproj.CoreCompileInputs.cache
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.exe
+C:\Users\ertir\source\repos\saat_yapımı\saat_yapımı\obj\Debug\saat_yapımı.pdb
