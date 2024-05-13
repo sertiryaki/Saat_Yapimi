@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace saat_yapımı
+namespace saat_yapimi
 {
     internal static class Program
     {

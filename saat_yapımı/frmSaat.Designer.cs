@@ -1,4 +1,4 @@
-﻿namespace saat_yapımı
+﻿namespace saat_yapimi
 {
     partial class frmSaat
     {

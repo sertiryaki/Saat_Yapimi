@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace saat_yapımı
+namespace saat_yapimi
 {
     public partial class frmSaat : Form
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace saat_yapımı.Properties
+namespace saat_yapimi.Properties
 {
 
 
